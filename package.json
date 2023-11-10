@@ -41,7 +41,7 @@
     "openpgp": "5.10.1",
     "prettier": "3.0.3",
     "request": "2.88.2",
-    "semver": "5.5.0",
+    "semver": "5.7.2",
     "sonarqube-scanner": "3.0.0",
     "stream": "^0.0.2",
     "tfx-cli": "0.16.0",
